@@ -1,0 +1,127 @@
+Olá, Ely! Recebi suas informações do entrevistador.  
+
+Vejo que você escolheu **Engenheiro de Qualidade de Software QA Jr** e tem **18 horas por semana** para estudar. Perfeito!  
+
+Vou montar agora seu plano completo personalizado...  
+
+---
+
+🧩 **VISÃO DO DIA A DIA**  
+
+Como é o trabalho de um(a) QA Jr:  
+- Planejar e executar testes manuais em aplicações  
+- Criar casos de teste e registrar evidências  
+- Reportar bugs e acompanhar correções  
+- Colaborar com desenvolvedores e analistas de negócio  
+- Apoiar na automação de testes básicos  
+
+---
+
+🧠 **MAPA DE SKILLS**  
+
+**CORE SKILLS (essenciais):**  
+- Fundamentos de testes de software  
+- Escrita de casos de teste e cenários  
+- Testes manuais funcionais  
+
+**NICE-TO-HAVE (complementares):**  
+- Automação de testes com Selenium ou Cypress  
+- SQL para validação de dados  
+
+**FERRAMENTAS E TECNOLOGIAS:**  
+- Jira ou Trello (gestão de tarefas)  
+- Postman (testes de API)  
+- Selenium/Cypress (automação)  
+
+---
+
+📅 **ROADMAP DE 90 DIAS**  
+
+**ADAPTADO PARA: 18 horas/semana (conteúdo extra incluído)**  
+
+**MÊS 1 - FUNDAMENTOS**  
+
+**SEMANA 1-2:**  
+- Entender ciclo de vida de software e papel do QA  
+- Estudar tipos de teste (funcional, regressão, integração)  
+
+**SEMANA 3-4:**  
+- Praticar escrita de casos de teste e relatórios de bug  
+- Usar ferramentas de gestão (Jira/Trello) para simular projetos  
+
+**MÊS 2 - PRÁTICA**  
+
+**SEMANA 5-6:**  
+- Aprender testes de API com Postman  
+- Criar coleções de testes e validar respostas  
+
+**SEMANA 7-8:**  
+- Introdução à automação com Selenium ou Cypress  
+- Criar scripts básicos de automação para login e formulários  
+
+**MÊS 3 - PORTFÓLIO E PREPARAÇÃO**  
+
+**SEMANA 9-10:**  
+- Desenvolver projeto de automação completo (fluxo de e-commerce)  
+- Documentar casos de teste e resultados  
+
+**SEMANA 11-12:**  
+- Revisar fundamentos e praticar entrevistas simuladas  
+- Publicar projeto no GitHub e preparar portfólio  
+
+---
+
+🚀 **PROJETO DE PORTFÓLIO**  
+
+**PROJETO:** Testes de um E-commerce (manual + automação)  
+
+**O QUE FAZER:**  
+Criar um conjunto de casos de teste para funcionalidades de um e-commerce (cadastro, login, compra, carrinho) e automatizar parte deles.  
+
+**ENTREGÁVEIS:**  
+- Documento com casos de teste manuais  
+- Scripts de automação (login, compra simples)  
+- Relatório de execução com evidências  
+
+**CRITÉRIOS DE ACEITAÇÃO:**  
+- Casos de teste claros e completos  
+- Scripts funcionando sem erros  
+- Relatório bem estruturado com prints e logs  
+
+**DICA:** Use um e-commerce open source (como Magento demo) para simular cenários reais.  
+
+---
+
+💬 **ROTEIRO DE ENTREVISTAS**  
+
+**PERGUNTA 1:** O que é teste de regressão?  
+**COMO RESPONDER:** Explique que é a repetição de testes já realizados para garantir que novas alterações não quebraram funcionalidades existentes.  
+
+**PERGUNTA 2:** Qual a diferença entre teste funcional e não funcional?  
+**COMO RESPONDER:** Funcional valida requisitos do sistema; não funcional avalia desempenho, segurança, usabilidade.  
+
+**PERGUNTA 3:** Como você reportaria um bug?  
+**COMO RESPONDER:** Descreva o passo a passo para reproduzir, resultado esperado, resultado obtido e evidências (print/log).  
+
+**PERGUNTA 4:** O que é automação de testes e quando usar?  
+**COMO RESPONDER:** É o uso de scripts para executar testes repetitivos; ideal para regressão e cenários críticos.  
+
+**PERGUNTA 5:** Qual a importância do QA no ciclo de desenvolvimento?  
+**COMO RESPONDER:** Garantir qualidade, reduzir riscos e aumentar confiança na entrega do produto.  
+
+---
+
+🎓 **TRILHA DIO RECOMENDADA**  
+
+**TRILHA:** *Formação Quality Assurance (QA)*  
+
+**POR QUE ESSA TRILHA:**  
+Ela cobre fundamentos de testes, automação com Selenium/Cypress e boas práticas de QA, alinhada ao seu objetivo de transição para QA Jr.  
+
+**PRÓXIMOS PASSOS:**  
+1. Acesse dio.me  
+2. Busque por "Formação Quality Assurance (QA)"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
